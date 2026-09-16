@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juctmedy-rgb.github.io/travbakhobmpa/sitemap.xml
